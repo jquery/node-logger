@@ -1,6 +1,6 @@
 {
 	"name": "simple-log",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"dependencies": {
 		"node-syslog": "1.1.7"
 	},
